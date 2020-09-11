@@ -1,0 +1,27 @@
+author: bigo
+version: 1.0
+main: hu.bigo.main
+name: Challange
+commands:
+  goto:
+    description: new
+  reset:
+    description: reset
+  addquest:
+    description: inditja ezt
+  start:
+    description: inditja ezt
+  pause:
+    description: leszuneteli ezt
+  feladatok:
+    description: feladatok
+  done:
+    description: befejezo parancs
+  undone:
+    description: nembefejezo parancs lol
+  hely:
+    description: hely lerakasa
+  helyek:
+    description: helyek mutatasa
+  mode:
+    description: mode valasztas
